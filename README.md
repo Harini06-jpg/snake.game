@@ -1,2 +1,2 @@
-# snake.game
-A replica of classic snake game
+# snake-game
+A replica of Classic Snake Game
